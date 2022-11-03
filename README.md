@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Sathiya Sundaram<br>A passionate Full-StackDeveloper from India<br>- 🔭 I’m currently Studying on **Sri Krishna Adithiya College**<br><br>- 🌱 I’m currently learning **JavaScrip and React JS**<br><br>- 📫 How to reach me **sathiyamsharmila@gmail.com**<br>
+Hi 👋, I'm Sathiya Sundaram<br>A passionate Full-StackDeveloper from India<br>- 🔭 I’m currently Studying on **Sri Krishna Adithiya College**<br><br>- 🌱 I’m currently learning **JavaScript and React JS**<br><br>- 📫 How to reach me **sathiyamsharmila@gmail.com**<br>
 
 
 ## 🌐 Socials:
